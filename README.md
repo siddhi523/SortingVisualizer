@@ -1,2 +1,2 @@
 # SortingVisualizer
-*Visualize Various Sorting Algorithms in java
+Visualize Various Sorting Algorithms in java
